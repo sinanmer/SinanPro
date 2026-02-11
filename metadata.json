@@ -1,0 +1,7 @@
+{
+  "name": "Kasa - Güvenli Şifre Yöneticisi",
+  "description": "Android tarzı modern bir arayüze sahip, Master Şifre korumalı ve Gemini destekli güvenli şifre saklama uygulaması.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
